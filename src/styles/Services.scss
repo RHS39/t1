@@ -1,0 +1,18 @@
+@import "colors";
+*.p {
+    width: 1500px;
+    height: 10vh;
+    margin-top: 0px;
+    font-size: 60px;
+    font-family:"Roboto" ;
+    border-radius: 6px;
+    display: inline-block;
+    background-color: $first;
+    box-shadow: 30px 30px 30px  #000;
+
+    z-index: 3;
+}
+
+img{
+    width: 30%;
+}
